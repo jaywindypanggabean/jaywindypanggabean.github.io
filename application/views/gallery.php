@@ -41,7 +41,7 @@
 				<div class="container">
 					<div class="row no-gutters slider-text justify-content-center align-items-center">
 	          <div class="col-md-8 ftco-animate">
-	            <p class="breadcrumbs"><span class="mr-2"><a href="<?php echo base_url().'Summary'?>">Home</a></span> <span>Summary</span></p>
+	            <p class="breadcrumbs"><span class="mr-2"><a href="<?php echo base_url().'summary'?>">Home</a></span> <span>Summary</span></p>
 	            <h1 class="bread">My Summary</h1>
 	          </div>
 	        </div>
